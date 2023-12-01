@@ -4,11 +4,11 @@ public class Dog extends Animal {
         System.out.println("Bark!!!");
     }
 
-    public Breed getBreed() {
-        return breed;
-    }
-
-    public void setBreed(Breed breed) {
-        this.breed = breed;
-    }
+//    public Breed getBreed() {
+//        return breed;
+//    }
+//
+//    public void setBreed(Breed breed) {
+//        this.breed = breed;
+//    }
 }
